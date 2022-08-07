@@ -47,7 +47,7 @@ padding-top:20px;
     .navbar{
       display: flex;
       justify-content: space-between;
-      margin-inline:50px;
+      margin-inline:35px;
     }
     .navbar:nth-child(1)::after{
       content: "";
